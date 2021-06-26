@@ -90,3 +90,8 @@ Our dataset contains a test folder and in a test.csv file, we have the details r
 
 
 ![image](https://user-images.githubusercontent.com/61861869/123510651-5be56500-d69a-11eb-8906-e7692850934c.png)
+
+
+
+# Summary
+In this Python project with source code, we have successfully classified the traffic signs classifier with 95% accuracy and also visualized how our accuracy and loss changes with time, which is pretty good from a simple CNN model.
